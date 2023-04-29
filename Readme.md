@@ -1,4 +1,4 @@
-C+ code for deployment on Android and Windows
+C+ code for deployment on Android, Windows, linux, MacOS
 
 # Environment setup
 
