@@ -1,0 +1,5 @@
+set(INTERFACE_INTERNAL_HEADERS
+  interface.hpp
+
+  PARENT_SCOPE
+)

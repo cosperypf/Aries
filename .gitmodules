@@ -1,0 +1,12 @@
+[submodule "spdlog"]
+	path = dependency/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "catch2"]
+	path = dependency/catch2
+	url = https://github.com/catchorg/Catch2.git
+[submodule "CLI11"]
+	path = dependency/CLI11
+	url = https://github.com/CLIUtils/CLI11.git
+[submodule "ghc_filesystem"]
+	path = dependency/ghc_filesystem
+	url = https://github.com/gulrak/filesystem.git

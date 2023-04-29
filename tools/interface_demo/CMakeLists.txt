@@ -1,0 +1,5 @@
+set(INTERFACE_DEMO_SOURCES
+  demo.cpp
+
+  PARENT_SCOPE
+)
